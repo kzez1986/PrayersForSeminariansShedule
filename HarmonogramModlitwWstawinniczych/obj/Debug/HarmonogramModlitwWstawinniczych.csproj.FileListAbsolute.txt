@@ -1,0 +1,29 @@
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\HarmonogramModlitwWstawinniczych.Harmonogram.resources
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\HarmonogramModlitwWstawinniczych.Properties.Resources.resources
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\HarmonogramModlitwWstawinniczych.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\bin\Debug\HarmonogramModlitwWstawinniczych.exe
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\bin\Debug\HarmonogramModlitwWstawinniczych.pdb
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\HarmonogramModlitwWstawinniczych.exe
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\HarmonogramModlitwWstawinniczych.pdb
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\MenadżerDni.MenadzerDni.resources
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\WstawinnicyForma.WstawiennikForm.resources
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\HarmonogramForma.HarmonogramForm.resources
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\SaleForm.SalaForm.resources
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\SeminarzyściForm.SeminarzystaForm.resources
+C:\Documents and Settings\Jakub\Moje dokumenty\Visual Studio 2008\Projects\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\RelacjeForm.Relacje.resources
+C:\Users\kzez1986\Desktop\Projekty do gita\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\bin\Debug\HarmonogramModlitwWstawinniczych.exe
+C:\Users\kzez1986\Desktop\Projekty do gita\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\bin\Debug\HarmonogramModlitwWstawinniczych.pdb
+C:\Users\kzez1986\Desktop\Projekty do gita\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\HarmonogramModlitwWstawinniczych.csprojAssemblyReference.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\HarmonogramModlitwWstawinniczych.Harmonogram.resources
+C:\Users\kzez1986\Desktop\Projekty do gita\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\HarmonogramForma.HarmonogramForm.resources
+C:\Users\kzez1986\Desktop\Projekty do gita\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\MenadżerDni.MenadzerDni.resources
+C:\Users\kzez1986\Desktop\Projekty do gita\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\HarmonogramModlitwWstawinniczych.Properties.Resources.resources
+C:\Users\kzez1986\Desktop\Projekty do gita\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\RelacjeForm.Relacje.resources
+C:\Users\kzez1986\Desktop\Projekty do gita\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\SaleForm.SalaForm.resources
+C:\Users\kzez1986\Desktop\Projekty do gita\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\SeminarzyściForm.SeminarzystaForm.resources
+C:\Users\kzez1986\Desktop\Projekty do gita\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\WstawinnicyForma.WstawiennikForm.resources
+C:\Users\kzez1986\Desktop\Projekty do gita\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\HarmonogramModlitwWstawinniczych.csproj.GenerateResource.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\HarmonogramModlitwWstawinniczych.csproj.CoreCompileInputs.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\HarmonogramModlitwWstawinniczych.exe
+C:\Users\kzez1986\Desktop\Projekty do gita\HarmonogramModlitwWstawinniczych\HarmonogramModlitwWstawinniczych\obj\Debug\HarmonogramModlitwWstawinniczych.pdb
